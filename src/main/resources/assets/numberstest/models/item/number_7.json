@@ -1,0 +1,6 @@
+{
+  "parent": "numberstest:custom/82308875",
+  "textures": {
+    "1": "numberstest:blocks/82308875"
+  }
+}
